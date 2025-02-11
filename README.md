@@ -1,7 +1,4 @@
-# Gerador_De_Senhas_Personalizadas
-Projetinho pessoal feito em python (pretendo incrementar)
 
-# Código
 import secrets
 import string
 from cryptography.fernet import Fernet
